@@ -12,6 +12,6 @@ Here is a link to my [file](Hotels_report\AMINESS_TEST.pbix)!
 
 The following two images display the final solution to the task, showcasing the visuals I used to present the data. These visuals were created to effectively illustrate the trends and key insights from the dataset, providing a clear and interactive report for analysis.
 
-![prikaz1](img\Prikaz1.png)
+![prikaz1](https://github.com/ValeNovak/FirstPowerBI/blob/main/img/Prikaz1.png)
 
-![prikaz2](img\Prikaz2.png)
+![prikaz2](https://github.com/ValeNovak/FirstPowerBI/blob/main/img/Prikaz2.png)
